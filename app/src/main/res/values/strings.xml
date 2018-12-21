@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MotoShakeActions</string>
+
+    <!-- Service Description String -->
+    <string name="service_description">
+        Moto Shake Actions was inspired by the MotoActions app by Motorola for Moto Phones. It uses an accessibility service
+        and emulates the Shake for Camera and Chop for Flashlight Actions of the MotoActions App.
+    </string>
+
+    <!-- Notification Channel Strings -->
+    <string name="channel_name">MotoShakeActions Notification Channel</string>
+    <string name="channel_description">
+        Used to Display the Tap to turn off flashlight notification when the flashlight is turned on
+    </string>
+
+    <!-- Notification String -->
+    <string name="notification_title">Flashlight is on</string>
+    <string name="notification_content">Shake twice to turn off Flashlight</string>
+</resources>
